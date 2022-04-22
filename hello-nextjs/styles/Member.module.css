@@ -1,0 +1,9 @@
+.container {
+    background-color: lawngreen;
+    padding: 20px;
+}
+
+.content{
+    font-size: 24px;
+    color: teal;
+}
